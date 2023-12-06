@@ -1,0 +1,4 @@
+apel aja,Perempuan
+bkom,Perempuan
+test,Laki-laki
+test ajalah,Perempuan
